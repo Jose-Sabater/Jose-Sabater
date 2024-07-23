@@ -7,7 +7,7 @@
 -  I aim to learn new things every day, thats why you will see many diverse projects in my Github. 
 -  I would be very interested in collaborating in the area of space exploration, using telescope or satellite imagery! Reach out to me!
 - 📫 How to reach me 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jose-sabater)
+[![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/jose-sabater)
 
 <!---
 ertotis/ertotis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
