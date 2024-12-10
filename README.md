@@ -1,6 +1,6 @@
 - 👋 Hi, I’m José I’m a Data Scientist  
 
-[![My Skills](https://skillicons.dev/icons?i=py,aws,azure,pytorch,tensorflow,git,flask,postgres,grafana,linux,raspberrypi,docker)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=py,aws,azure,pytorch,tensorflow,git,flask,fastapi,postgres,grafana,linux,raspberrypi,docker)](https://skillicons.dev)  
 
 
 - 👀 I’m interested in any type of Data Science project, be it data exploration, machine learning... you name it!
